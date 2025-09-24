@@ -1,0 +1,45 @@
+@REM div {
+@REM     background-color: pink;
+@REM     height: 200px;
+@REM     width: 400px;
+@REM }
+@REM ul {
+@REM     background-color: blue;
+@REM }
+@REM li {
+@REM     background-color: yellow;
+@REM }
+
+body {
+    text-align: center;
+}
+.btn-container {
+    display: flex;
+    justify-content: center;
+}
+.btn {
+  height: 200px;
+  width: 200px;
+  border-radius: 20%;
+  border: 5px solid black;
+  margin: 1.5rem;
+}
+.yellow {
+    background-color: #f99b45;
+}
+.red {
+    background-color: #d95980;
+}
+.purple {
+    background-color: #819ff9;
+
+}
+.green {
+    background-color: #63aac0;
+}
+.flash {
+    background-color: white;
+}
+.userflash {
+    background-color: green;
+}
